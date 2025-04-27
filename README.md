@@ -15,5 +15,5 @@ All functionality and permissions are defined in a manifest.json file, which ser
 
 In summary, this Chrome Extension uses standard components — background script, content script, popup page, and manifest file — to offer a simple but functional tool within the browser. It is designed to perform actions related to the user's active browsing session without requiring complex setup.
 
-#Ouput
-
+# Output
+![Image](https://github.com/user-attachments/assets/ffe9237b-abbc-4081-8010-f829dd811209)
